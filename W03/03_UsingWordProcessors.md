@@ -74,6 +74,9 @@ Tables
 
 ![Source Dialog Box](images/12.png)
 
-### C. Document Fields
+### B. Keyboard Shortcuts
 
+![Keyboard Shortcuts A](images/13.png)
+
+![Keyboard Shortcuts B](images/14.png)
 ---
